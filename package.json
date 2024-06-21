@@ -1,0 +1,22 @@
+{
+  "name": "backend-repo",
+  "version": "1.0.0",
+  "description": "Test App EBUDDY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamrpean/backend-repo.git"
+  },
+  "author": "Revan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamrpean/backend-repo/issues"
+  },
+  "homepage": "https://github.com/iamrpean/backend-repo#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
